@@ -1,0 +1,51 @@
+==================================================
+Changes from 2010-11-26 00:00:00 +0000 to present.
+==================================================
+
+-----------------------------------------
+version 1.01 at 2011-11-26 15:11:25 +0000
+-----------------------------------------
+
+  Change: 969c6f4b2c8dcd0981832a7aff9830c82b308bbf
+  Author: Alessandro Ranellucci <aar@cpan.org>
+  Date : 2011-11-26 16:11:06 +0000
+
+    Preparing to release 1.01 
+
+-----------------------------------------
+version 1.00 at 2011-11-26 15:02:22 +0000
+-----------------------------------------
+
+  Change: 8f058e90e4891cdc2f778d46e3f505d1ba74e967
+  Author: Alessandro Ranellucci <aar@cpan.org>
+  Date : 2011-11-26 16:02:22 +0000
+
+    Some fixes to the Changes file and removed a 1; in the POD 
+
+  Change: 2b98958788b7006c9021a449decf56afeb70e7ee
+  Author: Alessandro Ranellucci <aar@cpan.org>
+  Date : 2011-11-26 15:55:21 +0000
+
+    Added .gitignore 
+
+  Change: e0316785a4e3b2a441ab7570af75cdd82ba65138
+  Author: Alessandro Ranellucci <aar@cpan.org>
+  Date : 2011-11-26 15:53:02 +0000
+
+    Prepearing to release 
+
+  Change: fd41508823224abb26bda542429cd74126c4a736
+  Author: Alessandro Ranellucci <aar@cpan.org>
+  Date : 2011-10-28 13:57:45 +0000
+
+    Added support for formHandlers, namespace and exceptions 
+
+  Change: 4fee58874546b28a10ce687ea1f10db02a2abcdd
+  Author: Alessandro Ranellucci <aar@cpan.org>
+  Date : 2011-10-24 19:44:07 +0000
+
+    Working module. Needs POD, tests and packaging 
+
+================
+End of releases.
+================

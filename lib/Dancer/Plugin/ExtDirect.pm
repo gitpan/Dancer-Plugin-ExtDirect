@@ -107,6 +107,8 @@ register extdirect => sub ($) {
 
 register_plugin;
 
+1;
+
 
 __END__
 =pod
@@ -117,7 +119,7 @@ Dancer::Plugin::ExtDirect - ExtDirect plugin for Dancer
 
 =head1 VERSION
 
-version 1.00
+version 1.01
 
 =head1 SYNOPSIS
 
@@ -220,8 +222,6 @@ dies. Default is false, meaning that Dancer will just throw a 500 Internal
 Server Error with no details exposed.
 
 =back
-
-1;
 
 =head1 AUTHOR
 
