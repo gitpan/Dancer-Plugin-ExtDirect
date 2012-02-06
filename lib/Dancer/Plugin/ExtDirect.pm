@@ -1,9 +1,10 @@
 package Dancer::Plugin::ExtDirect;
+{
+  $Dancer::Plugin::ExtDirect::VERSION = '1.02';
+}
 # ABSTRACT: ExtDirect plugin for Dancer
 use strict;
 use warnings;
-
-our $VERSION = '1.00';
 
 use Dancer ':syntax';
 use Dancer::Plugin;
@@ -119,7 +120,7 @@ Dancer::Plugin::ExtDirect - ExtDirect plugin for Dancer
 
 =head1 VERSION
 
-version 1.01
+version 1.02
 
 =head1 SYNOPSIS
 
@@ -229,7 +230,7 @@ Alessandro Ranellucci <aar@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2011 by Alessandro Ranellucci.
+This software is copyright (c) 2012 by Alessandro Ranellucci.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
