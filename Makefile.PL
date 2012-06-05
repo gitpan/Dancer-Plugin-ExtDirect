@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
     "Dancer" => "1.3072",
     "JSON" => "2.53"
   },
-  "VERSION" => "1.02",
+  "VERSION" => "1.03",
   "test" => {
     "TESTS" => "t/*.t"
   }
